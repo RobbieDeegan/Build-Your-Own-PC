@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Robert\Desktop\PCApp\PCApp\bin\x64\Release\Upload\PCApp_1.1.1.0_x64.appx
+SymbolPackage=C:\Users\Robert\Desktop\PCApp\PCApp\AppPackages\PCApp_1.1.1.0\PCApp_1.1.1.0_x64.appxsym

@@ -1,0 +1,16 @@
+/osver:6.2
+/appcontainer
+/runtime:mrt100_app
+/eh:clr
+/pdb
+"/nativelink:C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Native\vmath.lib"
+/methodBodyFolding
+"C:\Users\Robert\Desktop\PCApp\PCApp\obj\ARM\Release\ilc\intermediate\MDIL\PCApp.mdilexe"
+"/i:C:\Users\Robert\Desktop\PCApp\PCApp\obj\ARM\Release\ilc\intermediate\MDIL\"
+/out:"C:\Users\Robert\Desktop\PCApp\PCApp\obj\ARM\Release\ilc\intermediate\Native\PCApp.exe"
+"/res:C:\Users\Robert\Desktop\PCApp\PCApp\obj\ARM\Release\ilc\intermediate\Native.res"
+/standalone
+/shimexe
+"/nativelink:C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Native\Interop.Native.lib"
+"/nativelink:C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Native\corelib.native.lib"
+"/nativelink:C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Native\TypeLoader.Native.lib"

@@ -1,0 +1,9 @@
+/ignoreAccessChecks
+/metadataFile "C:\Users\Robert\Desktop\PCApp\PCApp\obj\ARM\Release\ilc\intermediate\ILTransformed\PCApp.metadata"
+/gvmAssemblyName "System.Private.CoreLib"
+/o
+/sharedGenerics
+/ilmergeinfo "C:\Users\Robert\Desktop\PCApp\PCApp\obj\ARM\Release\ilc\intermediate\ILTransformed\PCApp.csv"
+/sharedGenericsMode StandardHeuristics
+/in "C:\Users\Robert\Desktop\PCApp\PCApp\obj\ARM\Release\ilc\intermediate\ILTransformed\PCApp.ilexe"
+/out "C:\Users\Robert\Desktop\PCApp\PCApp\obj\ARM\Release\ilc\intermediate\MDIL\PCApp.mdilexe"
